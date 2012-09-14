@@ -38,21 +38,6 @@ module Homepage::Views
       h6  {a 'More wisdom', :href => 'http://0.0.0.0:3301' }
     end #end of the center block.
   
-  # center do
-   #  p "Let's see if the center block works"
-    # p "If it doesn't then we'll try something else"
-    # p "It works!!"
-    # h1 "This is big text"
-  # end #end of the center loop
-
- # center do
-  #  ul do
-   #   li {a 'Google', :href => 'http://google.com' }
-    #  li {a 'A sample page', :href => '/sample'}
-   # end #end of the list block
- # end #end of the center block  
-
-
 
   end #end of the index method. 
 
